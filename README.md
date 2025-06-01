@@ -4,4 +4,9 @@
 
 **HTML and CSS** are two of the *foundational building blocks* of pretty much everything on the web, two languages that work together to create everything you see when you look at something on the Internet.
 
+**HTML** provides **structure and meaning** to our text: it creates all the text, links, cards, lists, and buttons.<br>
+**CSS** adds **style** to those plain elements.<br>
+HTML puts information on a webpage.<br>
+CSS positions that information, gives it color, changes the font, and makes it look great!
+
 
