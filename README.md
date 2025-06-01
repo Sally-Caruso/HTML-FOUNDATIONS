@@ -6,7 +6,7 @@
 
 **HTML** provides **structure and meaning** to our text: it creates all the text, links, cards, lists, and buttons.<br>
 **CSS** adds **style** to those plain elements.<br>
-HTML puts information on a webpage.<br>
-CSS positions that information, gives it color, changes the font, and makes it look great!
+**HTML** puts information on a webpage.<br>
+**CSS** positions that information, gives it color, changes the font, and makes it look great!
 
 
