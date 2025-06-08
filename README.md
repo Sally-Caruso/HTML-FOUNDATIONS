@@ -33,3 +33,10 @@ Text (often with embeds such as images, too) displayed on a web page or in a doc
 Formal language containing a set of instructions, written by programmers, that **enables humans to communicate with computers**, creating the technology we use every day; telling them what to do, computers are able to perform and accomplish tasks and get the desired outputs.<br>Like spoken languages, each language has its own unique syntax, structure, vocabulary, and even slang or shortcuts.
 These languages enable us to build, organize and share code, process large amounts of data, specify functionality and behavior, automate and improve efficiency, and solve problems creatively.
 
+**Cascading**<br>
+In web development this word refers to **how styles are applied to HTML elements**; a top-down definition of styles where newer styles override previous styles.<br>
+CSS rules can be defined in multiple places (inline styles, internal stylesheets, and external stylesheets) so the term “cascading” highlights how CSS applies a hierarchy of rules, where certain rules take precedence over others based on defined principles.
+
+**CSS Cascading order precedence** from highest priority to lowest one:
+
+**Inline CSS >  Internal CSS > External CSS > Browser Default/User Styles**
