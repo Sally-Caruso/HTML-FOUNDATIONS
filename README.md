@@ -28,3 +28,8 @@ Used to style the content of a web page, it lets developers control the visual a
 
 **Hypertext**<br>
 Text (often with embeds such as images, too) displayed on a web page or in a document which contains links to other information, making it possible **to navigate between different content** in a nonlinear way.<br>
+
+**Programming language**<br>
+Formal language containing a set of instructions, written by programmers, that **enables humans to communicate with computers**, creating the technology we use every day; telling them what to do, computers are able to perform and accomplish tasks and get the desired outputs.<br>Like spoken languages, each language has its own unique syntax, structure, vocabulary, and even slang or shortcuts.
+These languages enable us to build, organize and share code, process large amounts of data, specify functionality and behavior, automate and improve efficiency, and solve problems creatively.
+
