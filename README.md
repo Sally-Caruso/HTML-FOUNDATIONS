@@ -22,3 +22,9 @@ Popular **style sheet language** used for specifying **styling** and **presentat
 Used to style the content of a web page, it lets developers control the visual appearance of websites through typographic characteristics, colour properties, and overall layout of web pages.
 
 **The relation between HTML and CSS** is strongly tied together since HTML is the very foundation of a site and CSS is all of the aesthetics of an entire website.
+
+
+## Terms of relevance
+
+**Hypertext**<br>
+Text (often with embeds such as images, too) displayed on a web page or in a document which contains links to other information, making it possible **to navigate between different content** in a nonlinear way.<br>
