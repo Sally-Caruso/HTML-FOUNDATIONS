@@ -2,10 +2,23 @@
 
 ## Basics of HTML & CSS
 
-**HTML and CSS** are two of the *foundational building blocks* of pretty much everything on the web, two languages that work together to create everything you see on the Internet.<br>
+**HTML and CSS** are two of the *foundational building blocks* of pretty much everything on the web, two languages that work together to create everything you see on the Internet.
+
 **HTML** and **CSS** are two of the *building blocks* of Web Development.
 
 **HTML** provides **structure and meaning** to our text: it creates all the text, links, cards, lists, and buttons; it puts information on a webpage<br>
 **CSS** adds **style** to those plain elements: gives it color, changes the font, and makes it look great!
 
 
+## In-depth
+
+**HTML** (*HyperText Markup Language*)<br>
+A fundamental **markup language** that determines the **structure** and **content** of a web page.<br>
+This markup tells a web browser how to display text, images and other forms of multimedia.<br>
+It is able to create: paragraphs, lists, headings, layout, links, multimedia players, forms, tables and many more elements.
+
+**CSS** (*Cascading Style Sheets*)<br>
+Popular **style sheet language** used for specifying **styling** and **presentation** of a document written in a **markup language** as HTML.<br>
+Used to style the content of a web page, it lets developers control the visual appearance of websites through typographic characteristics, colour properties, and overall layout of web pages.
+
+**The relation between HTML and CSS** is strongly tied together since HTML is the very foundation of a site and CSS is all of the aesthetics of an entire website.
