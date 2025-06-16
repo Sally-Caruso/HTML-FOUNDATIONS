@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HTML-FOUNDATIONS
 
 ## Basics of HTML & CSS
@@ -43,3 +44,7 @@ CSS rules can be defined in multiple places (inline styles, internal stylesheets
 
 **Style sheet language**<br>
 It's a computer language that **describes the appearance and layout** of a web page written in HTML. It contains the style rules that determine how elements on the page should be displayed.
+=======
+# Test
+Practice moving a folder into a new repo
+>>>>>>> r1remote/main
